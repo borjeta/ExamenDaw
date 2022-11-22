@@ -1,2 +1,6 @@
 Despliegue de aplicaciones web
 Desarrollo de Entorno Servidor
+
+Desarrolo de Entorno Cliente
+Desarrollo de interfaces web
+Empresa e Iniciativa Emprendedora
